@@ -6,5 +6,5 @@ A simple Python script to evaluate the strength of passwords.
 * Features:
 > Checks length, numbers, uppercase, lowercase, and special characters.
 > Provides feedback on password security.
-* Tech Used: Python, Regex, String Manipulation
+* Tech Used: Python, Regex, String Manipulation<br/ >
 *Example File: password_checker.py
