@@ -8,4 +8,4 @@ A simple Python script to evaluate the strength of passwords.
   * Provides feedback on password security.
 * Tech Used: Python, Regex, String Manipulation
 * Example File: password_checker.py 
-* visit this [link] for repo
+* visit this [link](https://github.com/Abdifatah206/CyberSecurity-Portfolio/blob/main/password_strength_checker.py) for repo
