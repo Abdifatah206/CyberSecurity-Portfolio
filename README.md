@@ -1,6 +1,6 @@
 ## Hello There
 Passionate cybersecurity engineer with a strong foundation in network security, threat analysis, and vulnerability assessment. Experienced in SIEM tools, log analysis, and security monitoring. Holds Google Cybersecurity & CompTIA Security+ certifications with hands-on experience in security tools like Wireshark, Nmap, and Splunk. Seeking to contribute to a security-focused team and enhance cybersecurity defenses.
-### projects
+### Projects
 #### Password Strength Checker
 A simple Python script to evaluate the strength of passwords.
 * Features:
