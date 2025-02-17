@@ -7,5 +7,13 @@ A simple Python script to evaluate the strength of passwords.
   * Checks length, numbers, uppercase, lowercase, and special characters.
   * Provides feedback on password security.
 * Tech Used: Python, Regex, String Manipulation
-* Example File: password_checker.py 
+* visit this [link](https://github.com/Abdifatah206/CyberSecurity-Portfolio/blob/main/password_strength_checker.py) for repo
+#### Password Hashing 
+A Python script to hash passwords and plus salt(16).
+* Features:
+  * Hashes the password with the salt using SHA-256.
+  * Generates a random 16-byte salt to prevent rainbow table attacks.
+  * Converts the salt to a hex string and stores it along with the hash.
+  * Verification extracts the salt and recomputes the hash for comparison.
+* Tech Used: Python, Regex, String Manipulation
 * visit this [link](https://github.com/Abdifatah206/CyberSecurity-Portfolio/blob/main/password_strength_checker.py) for repo
