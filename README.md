@@ -15,5 +15,4 @@ A Python script to hash passwords and plus salt(16).
   * Generates a random 16-byte salt to prevent rainbow table attacks.
   * Converts the salt to a hex string and stores it along with the hash.
   * Verification extracts the salt and recomputes the hash for comparison.
-* Tech Used: Python, Regex, String Manipulation
 * visit this [link](https://github.com/Abdifatah206/CyberSecurity-Portfolio/blob/main/passwordhashing.py) for repo
