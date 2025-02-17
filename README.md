@@ -16,4 +16,4 @@ A Python script to hash passwords and plus salt(16).
   * Converts the salt to a hex string and stores it along with the hash.
   * Verification extracts the salt and recomputes the hash for comparison.
 * Tech Used: Python, Regex, String Manipulation
-* visit this [link](https://github.com/Abdifatah206/CyberSecurity-Portfolio/blob/main/password_strength_checker.py) for repo
+* visit this [link](https://github.com/Abdifatah206/CyberSecurity-Portfolio/blob/main/passwordhashing.py) for repo
